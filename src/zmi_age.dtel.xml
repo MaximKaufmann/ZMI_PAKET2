@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZMI_AGE</ROLLNAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <HEADLEN>20</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>15</SCRLEN3>
+    <DDTEXT>alter mi</DDTEXT>
+    <REPTEXT>AGE</REPTEXT>
+    <SCRTEXT_S>AGE</SCRTEXT_S>
+    <SCRTEXT_M>AGE</SCRTEXT_M>
+    <SCRTEXT_L>AGE</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <DATATYPE>INT1</DATATYPE>
+    <LENG>000003</LENG>
+    <OUTPUTLEN>000003</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
